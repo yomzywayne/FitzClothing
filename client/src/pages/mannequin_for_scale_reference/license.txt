@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mannequin for Scale reference.
+* source:	https://sketchfab.com/3d-models/mannequin-for-scale-reference-cc2b9be98a884608ad8b157ad9155800
+* author:	Bajeel (https://sketchfab.com/Bajeel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mannequin for Scale reference." (https://sketchfab.com/3d-models/mannequin-for-scale-reference-cc2b9be98a884608ad8b157ad9155800) by Bajeel (https://sketchfab.com/Bajeel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

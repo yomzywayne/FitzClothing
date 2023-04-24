@@ -1,0 +1,15 @@
+{
+    "userMeasurementBackgroundColor": "rgba(75, 192, 192, 0.2)",
+    "clotheMeasurementBackgroundColor": "rgba(255, 99, 132, 0.2)",
+    "userMeasurementBorderColor": "rgba(75, 192, 192, 1)",
+    "clotheMeasurementBorderColor": "rgba(255, 99, 132, 1)",
+
+    "minimumFitPercent": 95, 
+    "maximumVariantPerMeasurementInCmForFit": 1,
+
+    "userMeasurementHoverBackgroundColor": "rgba(75, 192, 192, 0.4)",
+    "clotheMeasurementHoverBackgroundColor": "rgba(255, 99, 132, 0.4)",
+    "userMeasurementHoverBorderColor": "rgba(75, 192, 192, 1)",
+    "clotheMeasurementHoverBorderColor": "rgba(255, 99, 132, 1)",
+    "measurementsComparisonChartTitle": "User/clothe measurements comparison chart"    
+}
