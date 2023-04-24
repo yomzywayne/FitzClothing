@@ -1,0 +1,26 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ],
+      "headers": [{
+        "source": "https://fitzclientapp.web.app",
+        "headers": [ {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+      }
+    ]
+    }
+  ]
+}
